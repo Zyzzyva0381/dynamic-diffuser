@@ -8,6 +8,8 @@
  * 5. 每个磁铁使用两个GPIO引脚控制
  */
 
+// (base) PS D:\programs\diffuser-hardware> python -m platformio run -t upload
+
 #include <Arduino.h>
 
 // 定义18个GPIO引脚编号，每两个控制一个电磁铁

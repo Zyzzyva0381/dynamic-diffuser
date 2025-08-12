@@ -50,7 +50,7 @@ def example_usage():
 
 def pattern_demo():
     """演示一个简单的磁铁模式"""
-    controller = MagnetController("COM3")  # 请修改为你的串口
+    controller = MagnetController("COM5")  # 请修改为你的串口
     
     if controller.connect():
         try:
