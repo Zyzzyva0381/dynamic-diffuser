@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+tensorboard>=2.13.0
+gymnasium>=0.28.0
+stable-baselines3[extra]>=2.0.0
+nidaqmx
+soundfile>=0.12.0
+pyserial>=3.5
+matplotlib>=3.7.0
+sb3_contrib
